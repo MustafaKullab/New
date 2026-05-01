@@ -1,44 +1,42 @@
-# VeloPlan
+# 🧾 Smart Multi-Step Form
 
-This template should help get you started developing with Vue 3 in Vite.
+A modern multi-step form built with Vue.js and powered by Pinia for state management.  
+This project provides a seamless user experience by guiding users through multiple steps with validation and dynamic state handling.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📌 Challenge
+This project is a solution to a Frontend Mentor multi-step form challenge.
 
-## Recommended Browser Setup
+---
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## 🚀 Live Demo
+👉 https://multipli-main-step-form.vercel.app/
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
 
-## Project Setup
+## ✨ Features
+- Multi-step form navigation
+- Centralized state management using Pinia
+- Form validation
+- Responsive design
+- Clean and intuitive UI/UX
+- Step progress tracking
 
-```sh
+---
+
+## 🛠️ Tech Stack
+- Vue.js
+- Pinia (State Management)
+- JavaScript (ES6)
+- HTML5 & CSS3
+
+---
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/your-username/your-repo.git
+cd smart-multi-step-form
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
