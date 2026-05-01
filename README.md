@@ -18,7 +18,7 @@ This project is a solution to a Frontend Mentor multi-step form challenge.
 
 ## ✨ Features
 - Multi-step form navigation
-- Centralized state management using Pinia
+- Global state management using Pinia to persist and manage multi-step form data
 - Form validation
 - Responsive design
 - Clean and intuitive UI/UX
